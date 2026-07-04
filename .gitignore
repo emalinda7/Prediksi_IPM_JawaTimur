@@ -225,3 +225,6 @@ model_metadata.json
 create_admin.py
 *.sql
 !setup_database.sql
+
+# Abaikan folder setting VS Code
+.vscode/
