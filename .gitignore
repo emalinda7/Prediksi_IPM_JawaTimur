@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Kustomisasi Proyek IPM Jatim
+*.keras
+*.h5
+*.pkl
+model_metadata.json
+create_admin.py
+*.sql
+!setup_database.sql
